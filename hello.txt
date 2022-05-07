@@ -1,3 +1,4 @@
 ﻿Новая строка
 next line
 Hello, git!
+Hello, git rebase!
