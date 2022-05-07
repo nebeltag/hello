@@ -1,4 +1,6 @@
 new project
-next line
-Hello, git rebase!
 
+next line
+Hello, git!
+Hello, git rebase!
+Hello, git squash!
